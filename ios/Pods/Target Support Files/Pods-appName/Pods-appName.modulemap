@@ -1,0 +1,6 @@
+module Pods_appName {
+  umbrella header "Pods-appName-umbrella.h"
+
+  export *
+  module * { export * }
+}
